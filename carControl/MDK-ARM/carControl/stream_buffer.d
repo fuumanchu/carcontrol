@@ -1,0 +1,14 @@
+carcontrol\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+carcontrol\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+carcontrol\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+carcontrol\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+carcontrol\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+carcontrol\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+carcontrol\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+carcontrol\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+carcontrol\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+carcontrol\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+carcontrol\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+carcontrol\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+carcontrol\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+carcontrol\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h
